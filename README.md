@@ -4,6 +4,8 @@
 
 This Python project implements a fully functional chess game with both human and AI players. The game features a graphical user interface (GUI) using the Pygame library and a simple AI opponent using multiprocessing for move computation.
 
+**YOUTUBE LINK** : https://www.youtube.com/watch?v=yuOE04dQ2fw
+
 **Features**
 
 Interactive GUI:
